@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=iZhV0bILFb0		-React Fundamentals
 https://www.youtube.com/watch?v=TNV0_7QRDwY		-Node/Express Fundamentals
 https://www.youtube.com/watch?v=rltfdjcXjmk		-Node/Express - MongoDB, Atlas, JWT
+
+npm install normalize.css                       -small CSS file that provides cross-browser consistency in the default styling of HTML elements
